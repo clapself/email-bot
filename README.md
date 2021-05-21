@@ -20,4 +20,4 @@ In its current state, the project contains the core backend code for constructin
 3. Email Service: A component that constructs the final email message, sends it out using spring mailer.
 
 # Who's Using EmailBot
-Clapself (htts://www.clapself.com), a smart e-learning platform for personal development, uses a version of EmailBot for communicating with its community members.
+Clapself (https://www.clapself.com), a smart e-learning platform for personal development, uses a version of EmailBot for communicating with its community members.
