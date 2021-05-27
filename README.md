@@ -1,7 +1,7 @@
 # EmailBot
 The EmailBot is a web based solution for email marketing.
 
-# Problem Statement
+# Background
 Email marketing is one of the most effective ways to market products or services.There are many free and paid solutions that provide email marketing services. The challenge is that the free ones are not easily scalable and paid ones cost a fortune and often require significant upfront training.
 
 Through this project, which is starting as an internship project, our goal is to collaboratively build an easy to use web based solution for email marketing that’s scalable while being free for all.
