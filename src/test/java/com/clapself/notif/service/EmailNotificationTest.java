@@ -79,7 +79,7 @@ public class EmailNotificationTest {
                 notificationService.sendEmail(notification);
             }
             else {
-              //fail("Error: notificationService not initialized. Check your settings");
+              fail("Error: notificationService not initialized. Check your settings");
             }
         } catch (Exception e) {
             String error = "Error in email for reset password token " + e.getMessage();
